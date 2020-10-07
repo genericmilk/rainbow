@@ -1,7 +1,7 @@
 # 🌈🏳️‍🌈 Rainbow
 ## By Genericmilk
 
-A lightweight emoji system for textarea's
+A lightweight emoji system for textarea and input fields
 
 Rainbow can be simply invoked by calling it against a DOM object and it will monitor changes and replace keystrokes to become emoji (ie `:)` becomes 🙂)
 

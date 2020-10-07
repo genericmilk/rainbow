@@ -1,4 +1,4 @@
-# 🌈🏳️‍🌈 Rainbow
+# 🌈 Rainbow
 ## By Genericmilk
 
 A lightweight emoji system for textarea and input fields
